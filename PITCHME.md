@@ -37,6 +37,7 @@ Progressive Web Apps
 <br><br>
 
 ---?image=template/img/iconIG.png&size=contain&position=bottom&size=20% 30%
+### Contoh aplikasi yang menerapkan PWA
 
 
 ---
