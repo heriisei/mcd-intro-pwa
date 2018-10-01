@@ -23,10 +23,10 @@ Progressive Web Apps
 +++?color=#4c24c1
 @title[Ciri PWA]
 
-### Seperti apa ?.
+### Seperti apa ?
 
 <br><br>
-@ul
+@ul[](false)
 - Menggunakan HTTPS & App Shell Architecture
 - Halaman dapat dimuat dengan cepat
 - Memasang Service Worker
