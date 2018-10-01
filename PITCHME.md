@@ -1,5 +1,5 @@
 ---?color=linear-gradient(to right, #4c24c1, #3596f0)
-@title[Introduction]
+@title[Pembuka]
 
 @snap[north text-white]
 MCD - *Sharing Session*
@@ -8,6 +8,16 @@ MCD - *Sharing Session*
 @snap[west headline text-white span-80]
 Ada apa dengan<br>*PWA ?*
 @snapend
+
+---?color=#3596f0
+@title[Penjelasan]
+
+### Progressive Web Apps
+
+@snap[east text-white span-50]
+@quote[Yang utama adalah kata progressive di mana maksud sebenarnya adalah peningkatan pengalaman user secara progresif atau bertahap.](Yohan Totting)
+@snapend
+
 
 ---
 @title[Slide Markdown]
