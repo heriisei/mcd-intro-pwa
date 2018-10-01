@@ -3,6 +3,7 @@
 
 @snap[north text-white]
 MCD - *Sharing Session*
+@snapend
 
 @snap[west headline text-white span-70]
 Ada apa dengan<br>*PWA ?*
