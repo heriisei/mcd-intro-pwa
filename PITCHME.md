@@ -36,7 +36,11 @@ Progressive Web Apps
 @ulend
 <br><br>
 
+---?image=template/img/iconIG.png&size=contain
+
+
 ---
+
 @title[Slide Markdown]
 
 ### Each slide in this presentation is provided as a *template*.
@@ -48,7 +52,6 @@ Progressive Web Apps
 1. Optionally, override template _styles_ and _settings_.
 1. Then present and publish with GitPitch @fa[smile-o]
 <br><br>
-
 
 ---
 @title[Tip! Fullscreen]
