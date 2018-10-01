@@ -12,9 +12,11 @@ Ada apa dengan<br>*PWA ?*
 ---?color=#3596f0
 @title[Penjelasan]
 
-### Progressive Web Apps
+@snap[north text-white]
+Progressive Web Apps
+@snapend
 
-@snap[east text-white span-50]
+@snap[east text-white]
 @quote[Yang utama adalah kata progressive di mana maksud sebenarnya adalah peningkatan pengalaman user secara progresif atau bertahap.](Yohan Totting)
 @snapend
 
