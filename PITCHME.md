@@ -36,7 +36,7 @@ Progressive Web Apps
 @ulend
 <br><br>
 
----?image=template/img/iconIG.png&size=contain
+---?image=template/img/iconIG.png&size=contain&position=bottom&size=20% 30%
 
 
 ---
