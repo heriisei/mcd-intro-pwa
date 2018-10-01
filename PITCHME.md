@@ -39,6 +39,18 @@ Progressive Web Apps
 ---?color=#4c24c1
 ### Contoh aplikasi yang menerapkan PWA
 
+@snap[south-west]
+![](template/img/iconIG.png)
+@snapend
+
+@snap[south]
+![](template/img/iconTwitter.png)
+@snapend
+
+@snap[south-east]
+![](template/img/iconTelegram.png)
+@snapend
+
 @snap[south-east span-30]
 ![IG](template/img/iconIG.png)
 @snapend
