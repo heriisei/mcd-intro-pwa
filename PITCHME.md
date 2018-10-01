@@ -1,8 +1,11 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+---?color=linear-gradient(to right, #4c24c1, #3596f0)
 @title[Introduction]
 
+@snap[north text-white]
+MCD - *Sharing Session*
+
 @snap[west headline text-white span-70]
-GitPitch<br>*The Template*
+Ada apa dengan<br>*PWA ?*
 @snapend
 
 @snap[south-west byline  text-white]
