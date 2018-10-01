@@ -43,7 +43,7 @@ Progressive Web Apps
 ![IG](template/img/iconIG.png)
 @snapend
 
-@snap[south span-30]
+@snap[south-east span-60]
 ![Twitter](template/img/iconTwitter.png)
 @snapend
 
