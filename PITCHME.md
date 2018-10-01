@@ -5,12 +5,8 @@
 MCD - *Sharing Session*
 @snapend
 
-@snap[west headline text-white span-70]
+@snap[west headline text-white span-40]
 Ada apa dengan<br>*PWA ?*
-@snapend
-
-@snap[south-west byline  text-white]
-The Fastest Way From Idea To Presentation.
 @snapend
 
 ---
