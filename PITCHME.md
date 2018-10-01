@@ -5,7 +5,7 @@
 MCD - *Sharing Session*
 @snapend
 
-@snap[west headline text-white span-40]
+@snap[west headline text-white span-80]
 Ada apa dengan<br>*PWA ?*
 @snapend
 
