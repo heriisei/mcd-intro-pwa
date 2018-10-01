@@ -51,18 +51,6 @@ Progressive Web Apps
 ![](template/img/iconTelegram.png)
 @snapend
 
-@snap[south-east span-30]
-![IG](template/img/iconIG.png)
-@snapend
-
-@snap[south-east span-60]
-![Twitter](template/img/iconTwitter.png)
-@snapend
-
-@snap[south-west span-30]
-![Telegram](template/img/iconTelegram.png)
-@snapend
-
 ---
 
 @title[Slide Markdown]
