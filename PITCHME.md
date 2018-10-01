@@ -36,7 +36,7 @@ Progressive Web Apps
 @ulend
 <br><br>
 
----?color=#4c24c1
+<!-- ---?color=#4c24c1
 ### Contoh aplikasi yang menerapkan PWA
 
 @snap[south-west]
@@ -104,4 +104,4 @@ GitPitch<br>*The Template @css[text-orange](End) ;)*
 
 @snap[south docslink span-100]
 For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
+@snapend -->
