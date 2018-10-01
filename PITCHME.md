@@ -36,9 +36,20 @@ Progressive Web Apps
 @ulend
 <br><br>
 
----?image=template/img/iconIG.png&size=contain&position=bottom&size=20% 30%
+---?color=#4c24c1
 ### Contoh aplikasi yang menerapkan PWA
 
+@snap[south-east span-30]
+![IG](template/img/iconIG.png)
+@snapend
+
+@snap[east span-30]
+![IG](template/img/iconTwitter.png)
+@snapend
+
+@snap[south-west span-30]
+![IG](template/img/iconTelegram.png)
+@snapend
 
 ---
 
